@@ -8,7 +8,7 @@ int main()
 	SetConsoleCP(1251);
 	SetConsoleOutputCP(1251);
 
-	int a, b;
+	int a, b, c;
 	cout << "\nВведіть A: ";
 	cin >> a;
 	cout << "\nВведіть B: ";
