@@ -8,6 +8,7 @@ int main()
 	SetConsoleCP(1251);
 	SetConsoleOutputCP(1251);
 
+	cout << "Hello";
 	int a, b;
 	cout << "\nВведіть A: ";
 	cin >> a;
