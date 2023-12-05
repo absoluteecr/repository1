@@ -9,7 +9,7 @@ int main()
 	SetConsoleOutputCP(1251);
 
 	cout << "Hello";
-	int a, b;
+	int a, b, c;
 	cout << "\nВведіть A: ";
 	cin >> a;
 	cout << "\nВведіть B: ";
